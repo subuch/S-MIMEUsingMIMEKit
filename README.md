@@ -1,4 +1,4 @@
-# S-MIME Using MIMEKit& SQL Lite DB
+# S/MIME Using MIMEKit& SQL Lite DB
 
 This project helps  to send S/MIME encrypted email using Google Mail Provider or custom mail provider by storing the certificate in the SQLLite Database. If you are targetting any of the Xamarin platforms (or Linux), you won't need to do anything (although you certainly can if you want to) because, by default, MimeKit will automatically use the Mono.Data.Sqlite binding to SQLite
 
