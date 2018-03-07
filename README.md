@@ -21,3 +21,6 @@ Under MailMessage.cs
 1. Draft an email and specify the From and TO recipient
 2. Ensure the TO recipient Public key is available with you. If not, export it and save in the folder
 
+Prerequisite:
+
+<b>Need of Entrust Certificate to play around this project</b>
