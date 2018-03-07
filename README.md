@@ -1,6 +1,6 @@
-# poc-sending-smime-email
+# S-MIME Using MIMEKit& SQL Lite DB
 
-This project helps  to send S/MIME mail using Google Mail Provider or 13 CABS mail provider
+This project helps  to send S/MIME encrypted email using Google Mail Provider or custom mail provider
 
 Config Setup:
 
